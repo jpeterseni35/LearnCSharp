@@ -1,12 +1,16 @@
-﻿using System;
-
-namespace LearnC_
+namespace LearnCSharp
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var person = Person.Parse("Jake");
+            person.Introduce("Mosh");
+
+            var customer = new Customer();
+            System.Console.WriteLine(customer.Id);
+            System.Console.WriteLine(customer.Name);
+
         }
     }
 }

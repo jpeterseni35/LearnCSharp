@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "LearnC#/1.0.0": {
+      "LearnCSharp/1.0.0": {
         "runtime": {
-          "LearnC#.dll": {}
+          "LearnCSharp.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "LearnC#/1.0.0": {
+    "LearnCSharp/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

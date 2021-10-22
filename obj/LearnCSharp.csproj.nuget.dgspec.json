@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\LearnC#\\LearnC#.csproj": {}
+    "D:\\Programming\\LearnCSharp\\LearnCSharp.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\LearnC#\\LearnC#.csproj": {
+    "D:\\Programming\\LearnCSharp\\LearnCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\LearnC#\\LearnC#.csproj",
-        "projectName": "LearnC#",
-        "projectPath": "D:\\Programming\\LearnC#\\LearnC#.csproj",
+        "projectUniqueName": "D:\\Programming\\LearnCSharp\\LearnCSharp.csproj",
+        "projectName": "LearnCSharp",
+        "projectPath": "D:\\Programming\\LearnCSharp\\LearnCSharp.csproj",
         "packagesPath": "C:\\Users\\jpete\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\LearnC#\\obj\\",
+        "outputPath": "D:\\Programming\\LearnCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jpete\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,16 @@
+D:\Programming\LearnCSharp\AngelSix\Types\Types\bin\Debug\net5.0\Types.exe
+D:\Programming\LearnCSharp\AngelSix\Types\Types\bin\Debug\net5.0\Types.deps.json
+D:\Programming\LearnCSharp\AngelSix\Types\Types\bin\Debug\net5.0\Types.runtimeconfig.json
+D:\Programming\LearnCSharp\AngelSix\Types\Types\bin\Debug\net5.0\Types.runtimeconfig.dev.json
+D:\Programming\LearnCSharp\AngelSix\Types\Types\bin\Debug\net5.0\Types.dll
+D:\Programming\LearnCSharp\AngelSix\Types\Types\bin\Debug\net5.0\ref\Types.dll
+D:\Programming\LearnCSharp\AngelSix\Types\Types\bin\Debug\net5.0\Types.pdb
+D:\Programming\LearnCSharp\AngelSix\Types\Types\obj\Debug\net5.0\Types.csproj.AssemblyReference.cache
+D:\Programming\LearnCSharp\AngelSix\Types\Types\obj\Debug\net5.0\Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\LearnCSharp\AngelSix\Types\Types\obj\Debug\net5.0\Types.AssemblyInfoInputs.cache
+D:\Programming\LearnCSharp\AngelSix\Types\Types\obj\Debug\net5.0\Types.AssemblyInfo.cs
+D:\Programming\LearnCSharp\AngelSix\Types\Types\obj\Debug\net5.0\Types.csproj.CoreCompileInputs.cache
+D:\Programming\LearnCSharp\AngelSix\Types\Types\obj\Debug\net5.0\Types.dll
+D:\Programming\LearnCSharp\AngelSix\Types\Types\obj\Debug\net5.0\ref\Types.dll
+D:\Programming\LearnCSharp\AngelSix\Types\Types\obj\Debug\net5.0\Types.pdb
+D:\Programming\LearnCSharp\AngelSix\Types\Types\obj\Debug\net5.0\Types.genruntimeconfig.cache

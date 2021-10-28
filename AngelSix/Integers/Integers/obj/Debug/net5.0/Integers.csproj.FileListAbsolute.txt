@@ -1,0 +1,16 @@
+D:\Programming\LearnCSharp\AngelSix\Integers\Integers\bin\Debug\net5.0\Integers.exe
+D:\Programming\LearnCSharp\AngelSix\Integers\Integers\bin\Debug\net5.0\Integers.deps.json
+D:\Programming\LearnCSharp\AngelSix\Integers\Integers\bin\Debug\net5.0\Integers.runtimeconfig.json
+D:\Programming\LearnCSharp\AngelSix\Integers\Integers\bin\Debug\net5.0\Integers.runtimeconfig.dev.json
+D:\Programming\LearnCSharp\AngelSix\Integers\Integers\bin\Debug\net5.0\Integers.dll
+D:\Programming\LearnCSharp\AngelSix\Integers\Integers\bin\Debug\net5.0\ref\Integers.dll
+D:\Programming\LearnCSharp\AngelSix\Integers\Integers\bin\Debug\net5.0\Integers.pdb
+D:\Programming\LearnCSharp\AngelSix\Integers\Integers\obj\Debug\net5.0\Integers.csproj.AssemblyReference.cache
+D:\Programming\LearnCSharp\AngelSix\Integers\Integers\obj\Debug\net5.0\Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\LearnCSharp\AngelSix\Integers\Integers\obj\Debug\net5.0\Integers.AssemblyInfoInputs.cache
+D:\Programming\LearnCSharp\AngelSix\Integers\Integers\obj\Debug\net5.0\Integers.AssemblyInfo.cs
+D:\Programming\LearnCSharp\AngelSix\Integers\Integers\obj\Debug\net5.0\Integers.csproj.CoreCompileInputs.cache
+D:\Programming\LearnCSharp\AngelSix\Integers\Integers\obj\Debug\net5.0\Integers.dll
+D:\Programming\LearnCSharp\AngelSix\Integers\Integers\obj\Debug\net5.0\ref\Integers.dll
+D:\Programming\LearnCSharp\AngelSix\Integers\Integers\obj\Debug\net5.0\Integers.pdb
+D:\Programming\LearnCSharp\AngelSix\Integers\Integers\obj\Debug\net5.0\Integers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Programming\LearnCSharp\AngelSix\BirthDayCalculator\BirthDayCalculator\bin\Debug\net5.0\BirthDayCalculator.exe
+D:\Programming\LearnCSharp\AngelSix\BirthDayCalculator\BirthDayCalculator\bin\Debug\net5.0\BirthDayCalculator.deps.json
+D:\Programming\LearnCSharp\AngelSix\BirthDayCalculator\BirthDayCalculator\bin\Debug\net5.0\BirthDayCalculator.runtimeconfig.json
+D:\Programming\LearnCSharp\AngelSix\BirthDayCalculator\BirthDayCalculator\bin\Debug\net5.0\BirthDayCalculator.runtimeconfig.dev.json
+D:\Programming\LearnCSharp\AngelSix\BirthDayCalculator\BirthDayCalculator\bin\Debug\net5.0\BirthDayCalculator.dll
+D:\Programming\LearnCSharp\AngelSix\BirthDayCalculator\BirthDayCalculator\bin\Debug\net5.0\ref\BirthDayCalculator.dll
+D:\Programming\LearnCSharp\AngelSix\BirthDayCalculator\BirthDayCalculator\bin\Debug\net5.0\BirthDayCalculator.pdb
+D:\Programming\LearnCSharp\AngelSix\BirthDayCalculator\BirthDayCalculator\obj\Debug\net5.0\BirthDayCalculator.csproj.AssemblyReference.cache
+D:\Programming\LearnCSharp\AngelSix\BirthDayCalculator\BirthDayCalculator\obj\Debug\net5.0\BirthDayCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\LearnCSharp\AngelSix\BirthDayCalculator\BirthDayCalculator\obj\Debug\net5.0\BirthDayCalculator.AssemblyInfoInputs.cache
+D:\Programming\LearnCSharp\AngelSix\BirthDayCalculator\BirthDayCalculator\obj\Debug\net5.0\BirthDayCalculator.AssemblyInfo.cs
+D:\Programming\LearnCSharp\AngelSix\BirthDayCalculator\BirthDayCalculator\obj\Debug\net5.0\BirthDayCalculator.csproj.CoreCompileInputs.cache
+D:\Programming\LearnCSharp\AngelSix\BirthDayCalculator\BirthDayCalculator\obj\Debug\net5.0\BirthDayCalculator.dll
+D:\Programming\LearnCSharp\AngelSix\BirthDayCalculator\BirthDayCalculator\obj\Debug\net5.0\ref\BirthDayCalculator.dll
+D:\Programming\LearnCSharp\AngelSix\BirthDayCalculator\BirthDayCalculator\obj\Debug\net5.0\BirthDayCalculator.pdb
+D:\Programming\LearnCSharp\AngelSix\BirthDayCalculator\BirthDayCalculator\obj\Debug\net5.0\BirthDayCalculator.genruntimeconfig.cache

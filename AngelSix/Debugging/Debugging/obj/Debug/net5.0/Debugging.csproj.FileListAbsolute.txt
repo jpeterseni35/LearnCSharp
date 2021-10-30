@@ -1,0 +1,16 @@
+D:\Programming\LearnCSharp\AngelSix\Debugging\Debugging\bin\Debug\net5.0\Debugging.exe
+D:\Programming\LearnCSharp\AngelSix\Debugging\Debugging\bin\Debug\net5.0\Debugging.deps.json
+D:\Programming\LearnCSharp\AngelSix\Debugging\Debugging\bin\Debug\net5.0\Debugging.runtimeconfig.json
+D:\Programming\LearnCSharp\AngelSix\Debugging\Debugging\bin\Debug\net5.0\Debugging.runtimeconfig.dev.json
+D:\Programming\LearnCSharp\AngelSix\Debugging\Debugging\bin\Debug\net5.0\Debugging.dll
+D:\Programming\LearnCSharp\AngelSix\Debugging\Debugging\bin\Debug\net5.0\ref\Debugging.dll
+D:\Programming\LearnCSharp\AngelSix\Debugging\Debugging\bin\Debug\net5.0\Debugging.pdb
+D:\Programming\LearnCSharp\AngelSix\Debugging\Debugging\obj\Debug\net5.0\Debugging.csproj.AssemblyReference.cache
+D:\Programming\LearnCSharp\AngelSix\Debugging\Debugging\obj\Debug\net5.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\LearnCSharp\AngelSix\Debugging\Debugging\obj\Debug\net5.0\Debugging.AssemblyInfoInputs.cache
+D:\Programming\LearnCSharp\AngelSix\Debugging\Debugging\obj\Debug\net5.0\Debugging.AssemblyInfo.cs
+D:\Programming\LearnCSharp\AngelSix\Debugging\Debugging\obj\Debug\net5.0\Debugging.csproj.CoreCompileInputs.cache
+D:\Programming\LearnCSharp\AngelSix\Debugging\Debugging\obj\Debug\net5.0\Debugging.dll
+D:\Programming\LearnCSharp\AngelSix\Debugging\Debugging\obj\Debug\net5.0\ref\Debugging.dll
+D:\Programming\LearnCSharp\AngelSix\Debugging\Debugging\obj\Debug\net5.0\Debugging.pdb
+D:\Programming\LearnCSharp\AngelSix\Debugging\Debugging\obj\Debug\net5.0\Debugging.genruntimeconfig.cache
